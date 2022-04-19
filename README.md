@@ -31,7 +31,7 @@
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in Mechanical and Industrial Engineering and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently working on Backend Development
+- 🔭 I’m currently working on FrontEnd Development
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with developing AI skills..

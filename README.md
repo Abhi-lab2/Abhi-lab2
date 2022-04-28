@@ -18,9 +18,9 @@
 <a href="https://www.linkedin.com/in/abhijeet-chaudhari//">
   <img align="left" alt="Abhijeet's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://twitter.com/Abhi-lab2">
+<a href="https://twitter.com/Abhijeet0296">
   <img align="left" alt="abhijeet | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+</a>
 
 <br/>
 <br/>

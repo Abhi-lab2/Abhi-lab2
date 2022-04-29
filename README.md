@@ -15,7 +15,7 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/abhijeet-chaudhari//">
+<a href="https://www.linkedin.com/in/abhijeet-chaudhari/">
   <img align="left" alt="Abhijeet's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Abhijeet0296">

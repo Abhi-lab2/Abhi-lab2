@@ -18,6 +18,9 @@
 <a href="https://www.linkedin.com/in/abhijeet-chaudhari/">
   <img align="left" alt="Abhijeet's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.hackerrank.com/abhijeet022">
+  <img align="left" alt="abhijeet | hackerrank" width="40px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_060528149c093ad5a64d6d8428c514c5/hackerrank-developer-skills-platform.png" />
+</a>
 <a href="https://twitter.com/Abhijeet0296">
   <img align="left" alt="abhijeet | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>

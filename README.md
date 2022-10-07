@@ -80,7 +80,7 @@
  <br>
  
  <h2>ℹ️ &nbsp;Github Info</h2>
-<>	
+<br/>	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-lab2&theme=github_dark" alt="Abhi-lab2" align = "center"/></p>
 </>

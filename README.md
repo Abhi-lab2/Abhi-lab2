@@ -66,7 +66,6 @@
 <br/>
 <br/>
 
-<img src="https://camo.githubusercontent.com/0ce6dc5d60b509e73724b9889e7c5aa4de026500476f3965948bd71a377f96ab/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d416268692d6c616232267468656d653d6769746875625f6461726b" alt"logo"></img>
 
 ## 📊 My Github Stats
 
@@ -81,10 +80,10 @@
  <br>
  
  <h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
+<>	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-lab2&theme=github_dark" alt="Abhi-lab2" align = "center"/></p>
-</details>
+</>
 <details>
 <!--  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=Abhi-lab2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Abhi-lab2" /></p>
